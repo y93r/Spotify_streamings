@@ -14,9 +14,9 @@ Os arquivos foram divididos em 3 no formato JSON e contém informações sobre o
 - Criar o gráfico que mostra as palavras que mais aparecem nos títulos das músicas. Utilizando a biblioteca WordCloud para gerar a nuvem de palavras, onde cada palavra é representada em tamanho proporcional à sua frequência nos títulos. Quanto maior o tamanho da palavra, mais frequente ela é nos títulos das músicas;
 - Contar o número de reproduções em cada mês e plotar um gráfico com essa informação;
 - Contar o número de reproduções em cada hora;
-- CCriar uma coluna com o dia da semana em que cada música foi executada e calcular qual foi o dia da semana com mais reproduções;
+- Criar uma coluna com o dia da semana em que cada música foi executada e calcular qual foi o dia da semana com mais reproduções;
 - Descobrir o dia com mais execuções e quais bandas foram as mais ouvidas nesse dia em questão;
 - Top 10 dos dias com mais músicas executadas;
 - Calcular a soma do tempo de reprodução por artista - Top10;
 - Somar o total de horas reproduzidas: 1450 em um intervalo de 368 dias 😨;
--  E salvar esse dataframe concatenado em um arquivo excel, além de outras abas com informações do Top10 - Artistas, Playlist do artista mais tocada, Músicas mais tocadas, Datas com mais execução e o gráfico WordCloud.
+- E salvar esse dataframe concatenado em um arquivo excel, além de outras abas com informações do Top10 - Artistas, Playlist do artista mais tocada, Músicas mais tocadas, Datas com mais execução e o gráfico WordCloud.
